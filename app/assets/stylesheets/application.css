@@ -13,3 +13,38 @@
  *= require_tree .
  *= require_self
  */
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+}
+
+strong{
+  margin: 0 10px;
+}
+
+.kankaku{
+  padding-top: 50px;
+  padding-left: 50px;
+}
+.padding{
+  margin: 20px 0 0 50px;
+}
+
+.header{
+  padding-top:30px;
+  padding-left:30px;
+  padding-bottom: 50px;
+}
+
+.title-c{
+  width:200px;
+  background-color:red;
+}
+.body-c{
+  width: 400px;
+  background-color: pink;
+}
+.table-link{
+  padding: 1px 5px 7px;
+}
