@@ -31,6 +31,10 @@ strong{
   margin: 20px 0 0 50px;
 }
 
+body{
+  padding:50px;
+}
+
 .header{
   padding-top:30px;
   padding-left:30px;
@@ -48,3 +52,4 @@ strong{
 .table-link{
   padding: 1px 5px 7px;
 }
+
